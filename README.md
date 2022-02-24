@@ -1,6 +1,5 @@
 # JetFighterGame
-<h5> Images of the backgrounds and items used in the project do not belong to me. 
-Special thanks to the owners. </h5>
+<h5> Special thanks to the owners of the images for the backgrounds and items used in this project. </h5>
 
 ## Welcome Page
 <p align="center">
